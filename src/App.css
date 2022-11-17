@@ -12,6 +12,9 @@ footer {
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
+    max-width: 1000px;
+    min-width: 1000px;
+
 }
 
 section {
